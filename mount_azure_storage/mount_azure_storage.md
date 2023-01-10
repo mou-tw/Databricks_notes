@@ -23,7 +23,7 @@ dbutils.fs.mount(
     directory-id here is also called Tenant ID in Azure
     ![pic](https://github.com/mou-tw/Databricks_notes/blob/main/img/tenant_properties.JPG  )
 
-    ![pic](https://github.com/mou-tw/Databricks_notes/blob/main/img/tenant_properties_page.JPG  )
+    ![pic](https://github.com/mou-tw/Databricks_notes/blob/main/img/tenant_properties_page.jpg  )
 
 * application-id
 
@@ -34,4 +34,4 @@ dbutils.fs.mount(
     click "Certificates & secrets" blade in AAD App registration page
     create or use client secrets
 
-    ![pic](https://github.com/mou-tw/Databricks_notes/blob/main/img/secret_get.JPG  )
+    ![pic](https://github.com/mou-tw/Databricks_notes/blob/main/img/secret_get.jpg  )
